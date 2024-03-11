@@ -1,0 +1,7 @@
+*.docx
+
+/src/x64
+
+*.sln
+
+/src/Project1/x64
